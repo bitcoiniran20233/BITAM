@@ -51,8 +51,7 @@ typings/
 .eslintcache
 
 # Microbundle cache
-.rpt2_cache/
-.rts2_cache_es/
+.rpt2_caches
 .rts2_cache_umd/
 
 # Optional REPL history
