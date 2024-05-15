@@ -41,7 +41,7 @@ node_modules/
 typings/
 
 # TypeScript cache
-*.tsbuildin
+*.tsbui/
 
 # Optional npm cache directory
 .npm
