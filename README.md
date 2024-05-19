@@ -51,7 +51,6 @@ typings/
 
 # Microbundle cache
 .rpt2_caches
-.rts2_cache_umd/
 
 # Optional REPL history
 .node_repl_history
