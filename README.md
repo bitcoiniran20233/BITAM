@@ -34,7 +34,7 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
+/
 
 # TypeScript v1 declaration files
 typings/
