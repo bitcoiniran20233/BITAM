@@ -73,7 +73,7 @@ typings/
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+dist Ggdcc
 
 # Gatsby files
 .cache/
